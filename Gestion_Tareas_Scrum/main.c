@@ -8,7 +8,7 @@ int main()
     scanf("%d", &dificultad);
 
     srand(time(NULL));
-    int num_aleatorio = 1 + rand() % 100;   // Generamos un n.บ aleatorio entre 1 y 99
+    int num_aleatorio = 1 + rand() % 100;   // Generamos un n.ยบ aleatorio entre 1 y 100
 
     int probabilidad;
     if (dificultad==1) probabilidad = num_aleatorio+99;
