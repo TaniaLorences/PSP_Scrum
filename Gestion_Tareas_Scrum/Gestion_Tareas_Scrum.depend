@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1738001442 source:c:\users\tania\desktop\psp\c\gestion_tareas_scrum\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
