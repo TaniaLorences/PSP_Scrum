@@ -1,0 +1,30 @@
+Diseñar el modelo de datos para la aplicación (Base de datos),4
+Implementar un CRUD completo (Programación),3
+Crear una interfaz gráfica para la gestión de usuarios (Interfaces),2
+Desarrollar un sistema de autenticación para usuarios (Sistemas),5
+Configurar el servidor web para la aplicación (Sistemas),4
+Crear un informe técnico de requisitos (Empresa),2
+Optimizar las consultas SQL para mejorar el rendimiento (Base de datos),5
+Implementar un sistema de notificaciones push (Programación),4
+Diseñar un mockup para la pantalla principal (Interfaces),1
+Probar el funcionamiento de la app en diferentes dispositivos (Movilidad),3
+Configurar un sistema de control de versiones (Sistemas),2
+Documentar el código fuente siguiendo buenas prácticas (Empresa),3
+Realizar pruebas de rendimiento de la aplicación (Programación),4
+Crear un dashboard de métricas con gráficos interactivos (Interfaces),5
+Configurar un servicio REST para integrar con otra app (Movilidad),4
+Diseñar la base de datos relacional para la app móvil (Base de datos),3
+Integrar un sistema de pagos en la aplicación (Programación),5
+Crear un manual de usuario de la aplicación (Empresa),2
+Probar la integración de los diferentes módulos (Programación),4
+Desarrollar una funcionalidad offline para la app (Movilidad),5
+Implementar seguridad en las comunicaciones de la app (Sistemas),4
+Crear un prototipo de diseño para la app móvil (Interfaces),1
+Desarrollar un instalador para la aplicación en Windows (Sistemas),3
+Realizar un estudio de viabilidad para el proyecto (Empresa),2
+Gestionar los permisos de la app en dispositivos Android (Movilidad),3
+Optimizar la interfaz gráfica para accesibilidad (Interfaces),4
+Desarrollar pruebas unitarias para la lógica de negocio (Programación),3
+Automatizar el despliegue de la aplicación en el servidor (Sistemas),5
+Realizar un informe financiero del proyecto (Empresa),2
+Crear un entorno de pruebas virtualizado (Sistemas),4
